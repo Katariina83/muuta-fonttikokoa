@@ -1,0 +1,46 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+    max-width: 100%;
+    margin: 1rem;
+}
+
+section {
+    background-color: #F2EFEF;
+    padding: 2rem;
+    border:none;
+    border-radius: 1.5rem;
+}
+
+h1 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+ol {
+    
+    list-style:decimal;
+    padding-left: 2rem;
+    margin: 1rem;
+    
+}
+
+li {
+    padding: 0.5rem;
+}
+
+p {
+    font-size: 16px;
+    padding: 2rem;
+}
+
+#kokonyt {
+    text-align: right;
+}
+
+#nappi {
+    background-color: #483C8A;
+    color:white;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+}
